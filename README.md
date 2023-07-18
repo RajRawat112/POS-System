@@ -60,5 +60,5 @@ The Inventory Management System is a Python application with a graphical user in
 ## Acknowledgments
 - [tkinter documentation](<https://docs.python.org/3/library/tk.html>) for providing tkinter documentation 
 - [Tkinter Course](<https://www.youtube.com/watch?v=YXPyB4XeYLA>) for providing additional help
-- [RajRawat112](<https://github.com/RajRawat112>) for helping with this project
+- [mannpatel2](https://github.com/mannpatel2/POS-System.git) for helping with this project
    
